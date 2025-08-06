@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rajaryan134/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/rajaryan134/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/rajaryan134/leetcode/tree/master/0015-3sum) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rajaryan134/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/rajaryan134/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/rajaryan134/leetcode/tree/master/0015-3sum) |
 | [0079-word-search](https://github.com/rajaryan134/leetcode/tree/master/0079-word-search) |
 | [1343-dice-roll-simulation](https://github.com/rajaryan134/leetcode/tree/master/1343-dice-roll-simulation) |
 ## Hash Table
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rajaryan134/leetcode/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/rajaryan134/leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
