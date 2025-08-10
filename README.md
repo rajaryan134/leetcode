@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rajaryan134/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/rajaryan134/leetcode/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/rajaryan134/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0079-word-search](https://github.com/rajaryan134/leetcode/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
