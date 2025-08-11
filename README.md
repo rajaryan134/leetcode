@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/rajaryan134/leetcode/tree/master/0027-remove-element) |
 | [0079-word-search](https://github.com/rajaryan134/leetcode/tree/master/0079-word-search) |
 | [1343-dice-roll-simulation](https://github.com/rajaryan134/leetcode/tree/master/1343-dice-roll-simulation) |
+| [2529-range-product-queries-of-powers](https://github.com/rajaryan134/leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/rajaryan134/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2529-range-product-queries-of-powers](https://github.com/rajaryan134/leetcode/tree/master/2529-range-product-queries-of-powers) |
+## Prefix Sum
+|  |
+| ------- |
+| [2529-range-product-queries-of-powers](https://github.com/rajaryan134/leetcode/tree/master/2529-range-product-queries-of-powers) |
 <!---LeetCode Topics End-->
