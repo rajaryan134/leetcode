@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rajaryan134/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [1343-dice-roll-simulation](https://github.com/rajaryan134/leetcode/tree/master/1343-dice-roll-simulation) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/rajaryan134/leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Array
 |  |
 | ------- |
