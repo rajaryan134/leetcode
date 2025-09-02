@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/rajaryan134/leetcode/tree/master/0079-word-search) |
 | [1343-dice-roll-simulation](https://github.com/rajaryan134/leetcode/tree/master/1343-dice-roll-simulation) |
 | [2529-range-product-queries-of-powers](https://github.com/rajaryan134/leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/rajaryan134/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/rajaryan134/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rajaryan134/leetcode/tree/master/0018-4sum) |
 | [0900-reordered-power-of-2](https://github.com/rajaryan134/leetcode/tree/master/0900-reordered-power-of-2) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/rajaryan134/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Math
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rajaryan134/leetcode/tree/master/0013-roman-to-integer) |
 | [0326-power-of-three](https://github.com/rajaryan134/leetcode/tree/master/0326-power-of-three) |
 | [0900-reordered-power-of-2](https://github.com/rajaryan134/leetcode/tree/master/0900-reordered-power-of-2) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/rajaryan134/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Linked List
 |  |
 | ------- |
@@ -116,4 +119,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/rajaryan134/leetcode/tree/master/0900-reordered-power-of-2) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/rajaryan134/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/rajaryan134/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
