@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/rajaryan134/leetcode/tree/master/0041-first-missing-positive) |
 | [0079-word-search](https://github.com/rajaryan134/leetcode/tree/master/0079-word-search) |
 | [1343-dice-roll-simulation](https://github.com/rajaryan134/leetcode/tree/master/1343-dice-roll-simulation) |
+| [1917-maximum-average-pass-ratio](https://github.com/rajaryan134/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2529-range-product-queries-of-powers](https://github.com/rajaryan134/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/rajaryan134/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Hash Table
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rajaryan134/leetcode/tree/master/0011-container-with-most-water) |
+| [1917-maximum-average-pass-ratio](https://github.com/rajaryan134/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 ## Sorting
 |  |
 | ------- |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/rajaryan134/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/rajaryan134/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 <!---LeetCode Topics End-->
